@@ -1,0 +1,28 @@
+[
+    {
+        "id" : 1,
+        "linkName" : "About Us",
+        "linkPath" :"/about-us"
+    },
+    {
+        "id" : 2,
+        "linkName" : "Contact Us",
+        "linkPath" :""
+    },
+    {
+        "id" : 3,
+        "linkName" : "Our Services",
+        "linkPath" :""
+    },
+    {
+        "id" : 4,
+        "linkName" : "Professionals",
+        "linkPath" :"/professional"
+    },
+    {
+        "id" : 5,
+        "linkName" : "Career",
+        "linkPath" :"/life-at-flyfin"
+    }
+   
+]
